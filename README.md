@@ -1,6 +1,6 @@
 # Apache – “Size of a request header field exceeds server limit”
 
-## Your browser sent a request that this server could not understand.
+## ![#f03c15]Your browser sent a request that this server could not understand.
 Size of a request header field exceeds server limit.
 
 ![alt text](Apache-Size-of-a-request-header-field-exceeds-server-limit.jpg)
