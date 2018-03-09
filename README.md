@@ -1,6 +1,8 @@
 # Apache – “Size of a request header field exceeds server limit”
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) ## Your browser sent a request that this server could not understand. Size of a request header field exceeds server limit.
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 
+## Your browser sent a request that this server could not understand. Size of a request header field exceeds server limit.
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 
 
 ![alt text](Apache-Size-of-a-request-header-field-exceeds-server-limit.jpg)
 
