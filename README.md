@@ -9,7 +9,7 @@ That means that your browser is trying to send too much at once. Probably, it’
 
 Searching on the Apache debug error traces took me to this error line:
 
->>[Fri Mar 09 07:34 2018] [error] [client 22.6.6.80] request failed: error reading the headers, referer: http://www.domain.com/
+>[Fri Mar 09 07:34 2018] [error] [client 22.6.6.80] request failed: error reading the headers, referer: http://www.domain.com/
 
 This seems to be usually caused by a very large cookie, so the limit configured in **Apache for a request header** field must be increased.That limit is controlled by the **LimitRequestFieldSize** directive.
 
@@ -41,11 +41,11 @@ After restarting services, the problem is solved.
 
 so now restart apache
 
->>ubuntu OS
+>ubuntu OS
 ```
 sudo service apache2 restart
 ```
->>linux OS
+>linux OS
 ```
 sudo service httpd restart
 ```
